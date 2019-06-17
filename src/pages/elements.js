@@ -281,7 +281,7 @@ const Elements = (props) => (
                                 <h3>Buttons</h3>
                                 <ul className="actions">
                                     <li><a href="#" className="button special">Special</a></li>
-                                    <li><a href="#" className="button">Default</a></li>
+                                    <li><a href="#" className="button">Special</a></li>
                                 </ul>
                                 <ul className="actions">
                                     <li><a href="#" className="button big">Big</a></li>

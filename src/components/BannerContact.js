@@ -1,14 +1,13 @@
 import React from 'react'
 
 const BannerLanding = (props) => (
-    <section id="banner" className="style3">
+    <section id="banner" className="style1">
         <div className="inner">
             <header className="major">
-                <h1>What do you want to learn today?</h1>
+                <h1>Contact Us</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p>Got feedback? Feel free to let us know down below.</p>
             </div>
         </div>
     </section>
